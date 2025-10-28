@@ -1,5 +1,5 @@
 # Sqlserver-online-sales-analysis
-ales data analysis using SQL Server | SUM, COUNT, GROUP BY, ORDER BY | Monthly and yearly revenue insights.
+Sales data analysis using SQL Server | SUM, COUNT, GROUP BY, ORDER BY | Monthly and yearly revenue insights.
 
 
 Sales Data Analysis using SQL Server (SSMS)
